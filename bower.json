@@ -64,5 +64,12 @@
     "./fonts/roboto-v15-latin_latin-ext-regular.ttf",
     "./fonts/roboto-v15-latin_latin-ext-regular.woff",
     "./fonts/roboto-v15-latin_latin-ext-regular.woff2"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }
